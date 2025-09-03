@@ -13,13 +13,14 @@
 ![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=Junior-AndradeH&layout=compact&theme=radical)
 
 ## 🔭 Trabalhando atualmente em
+- Configuração física e lógica da topologia de Rede e notebooks
+- Criação de layouts UX/ UI
 - Desenvolvimento de aplicações Flutter
-- APIs em Node.js
 
 ## 🌱 Aprendendo atualmente
 - Inteligência Artificial
 - Cloud Computing
 
 ## 📫 Como me encontrar:
-- [LinkedIn](https://linkedin.com/in/seu-linkedin)
-- [Email](mailto:seu.email@domain.com)
+- [LinkedIn]([https://linkedin.com/in/seu-linkedin](https://www.linkedin.com/in/humberto-andrade-618bb448))
+- [Email](mailto:juniorandrade2.0@outlook.com)
