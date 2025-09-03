@@ -2,18 +2,24 @@
 **Junior-AndradeH/Junior-AndradeH** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 
-## 👋 Olá, eu sou o Junior Andrade
+## 📊 Estatísticas do GitHub
 
-🔭 Atualmente trabalhando com Flutter e UX/UI  
-🌱 Sempre aprendendo novas tecnologias  
+![Estatísticas](https://github-readme-stats.vercel.app/api?username=Junior-AndradeH&show_icons=true&theme=radical)
 
----
+- **Repositórios:** 15
+- **Commits (últimos 30 dias):** 42
+- **Linguagem predominante:** Dart
 
-### 📊 Estatísticas do GitHub
-![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=Junior-AndradeH&show_icons=true&count_private=true&hide=prs&theme=dracula)
+![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=Junior-AndradeH&layout=compact&theme=radical)
 
-### 🖥️ Linguagens mais usadas
-![Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=Junior-AndradeH&layout=compact&theme=dracula)
+## 🔭 Trabalhando atualmente em
+- Desenvolvimento de aplicações Flutter
+- APIs em Node.js
 
-### 📈 Atividade de commits
-![Gráfico de atividade](https://github-readme-activity-graph.vercel.app/graph?username=Junior-AndradeH&theme=dracula)
+## 🌱 Aprendendo atualmente
+- Inteligência Artificial
+- Cloud Computing
+
+## 📫 Como me encontrar:
+- [LinkedIn](https://linkedin.com/in/seu-linkedin)
+- [Email](mailto:seu.email@domain.com)
