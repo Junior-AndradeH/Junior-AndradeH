@@ -1,4 +1,4 @@
-# 👩🏻‍💻 Junior Andrade
+# Junior Andrade
 
 **`Desenvolvedor Flutter Jr | UX/UI Design`**
 
